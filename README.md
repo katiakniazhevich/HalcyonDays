@@ -1,2 +1,2 @@
 # HalcyonDays
-https://katiakniazhevich.github.io/halcyondays/
+https://katiakniazhevich.github.io/halcyondays/index/
